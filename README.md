@@ -1,6 +1,9 @@
 # Uber_Analysis
 # Uber Trip Analysis Dashboard - Overview
 
+
+![image alt](https://github.com/Samradh2/Uber_Analysis/blob/98bead491001c579f9016e3df18f2d5a05f8e40f/Uber.png)
+
 This dashboard provides a comprehensive overview of Uber trip data, offering insights into key metrics and trends. It allows for a quick understanding of booking patterns, trip distances, and service efficiency.
 
 ## Key Metrics at a Glance:
@@ -61,4 +64,3 @@ While this dashboard provides a high-level overview, further analysis could invo
 ---
 
 
-C:\Users\samra\OneDrive\Pictures\Screenshots
